@@ -1,0 +1,1021 @@
+{
+  "5551435794": {
+    "expiry": "2025-10-08T13:20:37.646730",
+    "activated_on": "2025-10-07T13:20:37.646730",
+    "status": "active",
+    "is_trial": true
+  },
+  "5922315399": {
+    "expiry": "2025-10-08T13:21:27.578088",
+    "activated_on": "2025-10-07T13:21:27.578088",
+    "status": "active",
+    "is_trial": true
+  },
+  "7924131515": {
+    "expiry": "2025-10-08T15:02:42.109296",
+    "activated_on": "2025-10-07T15:02:42.109296",
+    "status": "active",
+    "is_trial": true
+  },
+  "7296859474": {
+    "expiry": "2025-10-09T06:36:02.542824",
+    "activated_on": "2025-10-08T06:36:02.542824",
+    "status": "active",
+    "is_trial": true
+  },
+  "6962832599": {
+    "expiry": "2025-10-09T11:38:55.131224",
+    "activated_on": "2025-10-08T11:38:55.131224",
+    "status": "active",
+    "is_trial": true
+  },
+  "5453219216": {
+    "expiry": "2025-10-10T10:39:23.868847",
+    "activated_on": "2025-10-09T10:39:23.868847",
+    "status": "active",
+    "is_trial": true
+  },
+  "6047892323": {
+    "expiry": "2025-10-10T15:15:50.908510",
+    "activated_on": "2025-10-09T15:15:50.908510",
+    "status": "active",
+    "is_trial": true
+  },
+  "7319436650": {
+    "expiry": "2025-10-10T19:16:49.345410",
+    "activated_on": "2025-10-09T19:16:49.345410",
+    "status": "active",
+    "is_trial": true
+  },
+  "7555557063": {
+    "expiry": "2025-10-11T05:30:31.553046",
+    "activated_on": "2025-10-10T05:30:31.553046",
+    "status": "active",
+    "is_trial": true
+  },
+  "5628663652": {
+    "expiry": "2025-10-12T04:27:36.392365",
+    "activated_on": "2025-10-11T04:27:36.392365",
+    "status": "active",
+    "is_trial": true
+  },
+  "1887127661": {
+    "expiry": "2025-12-12T06:32:45.582724",
+    "activated_on": "2025-10-13T06:32:45.582724",
+    "status": "active",
+    "is_trial": false,
+    "is_lifetime": false
+  },
+  "8175076437": {
+    "expiry": "2025-10-16T06:27:46.176622",
+    "activated_on": "2025-10-15T06:27:46.176622",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6523232580": {
+    "expiry": "2025-10-16T06:41:29.178510",
+    "activated_on": "2025-10-15T06:41:29.178510",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5925395333": {
+    "expiry": "2025-10-16T06:42:48.698393",
+    "activated_on": "2025-10-15T06:42:48.698393",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6729939413": {
+    "expiry": "2025-10-16T13:24:37.675314",
+    "activated_on": "2025-10-15T13:24:37.675314",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7822776135": {
+    "expiry": "2025-10-18T04:09:25.516001",
+    "activated_on": "2025-10-17T04:09:25.516001",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6445805755": {
+    "expiry": "2025-10-19T13:19:11.945294",
+    "activated_on": "2025-10-18T13:19:11.945294",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8004355984": {
+    "expiry": "2025-10-21T05:56:26.791241",
+    "activated_on": "2025-10-20T05:56:26.791241",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6957533329": {
+    "expiry": "2025-10-21T12:08:53.232473",
+    "activated_on": "2025-10-20T12:08:53.232473",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6148124853": {
+    "expiry": "2025-10-22T21:16:11.271876",
+    "activated_on": "2025-10-21T21:16:11.271876",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6187179474": {
+    "expiry": "2025-10-23T08:53:02.294882",
+    "activated_on": "2025-10-22T08:53:02.294882",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7079850969": {
+    "expiry": "2025-10-23T16:25:22.077930",
+    "activated_on": "2025-10-22T16:25:22.077930",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7170988251": {
+    "expiry": "2025-10-23T19:20:28.128952",
+    "activated_on": "2025-10-22T19:20:28.128952",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7240987822": {
+    "expiry": "2025-10-24T03:21:02.833445",
+    "activated_on": "2025-10-23T03:21:02.833445",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "2038849451": {
+    "expiry": "2025-10-24T13:14:06.240939",
+    "activated_on": "2025-10-23T13:14:06.240939",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7578330143": {
+    "expiry": "2025-10-24T15:37:42.780202",
+    "activated_on": "2025-10-23T15:37:42.780202",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1485152864": {
+    "expiry": "2025-10-24T22:10:17.626871",
+    "activated_on": "2025-10-23T22:10:17.626871",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5832574952": {
+    "expiry": "2025-10-25T15:03:51.964750",
+    "activated_on": "2025-10-24T15:03:51.964750",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6070595017": {
+    "expiry": "2025-10-25T18:14:54.300657",
+    "activated_on": "2025-10-24T18:14:54.300657",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1337546198": {
+    "expiry": "2025-10-26T07:35:20.840577",
+    "activated_on": "2025-10-25T07:35:20.840577",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "2139485282": {
+    "expiry": "2025-10-26T17:28:05.943291",
+    "activated_on": "2025-10-25T17:28:05.943291",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7956611267": {
+    "expiry": "2025-10-26T18:45:06.550621",
+    "activated_on": "2025-10-25T18:45:06.550621",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7993246954": {
+    "expiry": "2025-10-27T03:11:40.004406",
+    "activated_on": "2025-10-26T03:11:40.004406",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1696771620": {
+    "expiry": "2025-10-27T12:38:16.283821",
+    "activated_on": "2025-10-26T12:38:16.283821",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7911947546": {
+    "expiry": "2025-10-27T16:41:42.902432",
+    "activated_on": "2025-10-26T16:41:42.902432",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8228727241": {
+    "expiry": "2025-10-28T12:46:05.260698",
+    "activated_on": "2025-10-27T12:46:05.260698",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1251204922": {
+    "expiry": "2025-10-28T23:53:13.705629",
+    "activated_on": "2025-10-27T23:53:13.705629",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5407002242": {
+    "expiry": "2025-10-29T01:08:15.193636",
+    "activated_on": "2025-10-28T01:08:15.193636",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5435743118": {
+    "expiry": "2025-10-30T07:50:53.770971",
+    "activated_on": "2025-10-29T07:50:53.770971",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1441314181": {
+    "expiry": "2025-10-30T11:56:36.080238",
+    "activated_on": "2025-10-29T11:56:36.080238",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7983602987": {
+    "expiry": "2025-10-30T13:33:16.944094",
+    "activated_on": "2025-10-29T13:33:16.944094",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7148995845": {
+    "expiry": "2026-01-28T16:20:44.217452",
+    "activated_on": "2025-10-30T16:20:44.217452",
+    "status": "active",
+    "is_trial": false,
+    "is_lifetime": false
+  },
+  "7980397158": {
+    "expiry": "2025-10-31T19:30:18.385526",
+    "activated_on": "2025-10-30T19:30:18.385526",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1898924564": {
+    "expiry": "2025-11-01T10:43:13.734520",
+    "activated_on": "2025-10-31T10:43:13.734520",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6353775626": {
+    "expiry": "2025-11-02T01:01:20.413489",
+    "activated_on": "2025-11-01T01:01:20.413489",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8453948641": {
+    "expiry": "2025-11-03T22:40:04.997913",
+    "activated_on": "2025-11-02T22:40:04.997913",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8443789949": {
+    "expiry": "2025-11-04T10:16:31.226777",
+    "activated_on": "2025-11-03T10:16:31.226777",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8386941880": {
+    "expiry": "2025-12-03T16:02:25.239895",
+    "activated_on": "2025-11-03T16:02:25.239895",
+    "status": "active",
+    "is_trial": false,
+    "is_lifetime": false
+  },
+  "6362625573": {
+    "expiry": "2025-11-05T00:15:02.797174",
+    "activated_on": "2025-11-04T00:15:02.797174",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5441476152": {
+    "expiry": "2025-11-05T13:49:56.485292",
+    "activated_on": "2025-11-04T13:49:56.485292",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6484788124": {
+    "expiry": "2035-09-22T18:58:07.270954",
+    "activated_on": "2026-01-09T18:58:07.270954",
+    "status": "active",
+    "is_trial": false,
+    "tier": "premium",
+    "days": 3543
+  },
+  "6311477530": {
+    "expiry": "2025-11-06T23:56:43.055048",
+    "activated_on": "2025-11-05T23:56:43.055048",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8433524693": {
+    "expiry": "2025-11-07T00:03:26.991727",
+    "activated_on": "2025-11-06T00:03:26.991727",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "6045892512": {
+    "expiry": "2025-11-07T13:54:30.312662",
+    "activated_on": "2025-11-06T13:54:30.312662",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5657758509": {
+    "expiry": "2025-11-07T21:50:31.838955",
+    "activated_on": "2025-11-06T21:50:31.838955",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7904983530": {
+    "expiry": "2025-11-09T09:04:35.388738",
+    "activated_on": "2025-11-08T09:04:35.388738",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8571731295": {
+    "expiry": "2025-11-12T08:39:03.403967",
+    "activated_on": "2025-11-11T08:39:03.403967",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "7095639003": {
+    "expiry": "2025-11-14T09:58:49.694875",
+    "activated_on": "2025-11-13T09:58:49.694875",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "8069103385": {
+    "expiry": "2025-11-15T10:58:34.553702",
+    "activated_on": "2025-11-14T10:58:34.553702",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "1935378563": {
+    "expiry": "2025-11-15T13:15:36.062491",
+    "activated_on": "2025-11-14T13:15:36.062491",
+    "status": "active",
+    "is_trial": true,
+    "is_lifetime": false
+  },
+  "5735831248": {
+    "expiry": "2025-11-16T01:32:16.745862",
+    "activated_on": "2025-11-15T01:32:16.745862",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5454954585": {
+    "expiry": "2025-11-16T08:15:35.951285",
+    "activated_on": "2025-11-15T08:15:35.951285",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5575731842": {
+    "expiry": "2025-11-16T08:39:31.991703",
+    "activated_on": "2025-11-15T08:39:31.991703",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6152930537": {
+    "expiry": "2025-11-16T11:21:09.310342",
+    "activated_on": "2025-11-15T11:21:09.310342",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6497687133": {
+    "expiry": "2025-11-16T18:36:13.739898",
+    "activated_on": "2025-11-15T18:36:13.739898",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5832833693": {
+    "expiry": "2025-11-16T21:46:12.377582",
+    "activated_on": "2025-11-15T21:46:12.377582",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6145124803": {
+    "expiry": "2025-11-17T20:00:45.913538",
+    "activated_on": "2025-11-16T20:00:45.913538",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5083968184": {
+    "expiry": "2025-11-18T19:45:25.929708",
+    "activated_on": "2025-11-17T19:45:25.929708",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "1486972537": {
+    "expiry": "2025-11-18T20:11:24.728471",
+    "activated_on": "2025-11-17T20:11:24.728471",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7849951193": {
+    "expiry": "2025-12-17T22:28:35.895635",
+    "activated_on": "2025-11-17T22:28:35.895635",
+    "status": "active",
+    "is_trial": false,
+    "tier": "basic",
+    "days": 30
+  },
+  "1629015736": {
+    "expiry": "2025-11-19T00:52:06.385074",
+    "activated_on": "2025-11-18T00:52:06.385074",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6003675617": {
+    "expiry": "2026-03-09T21:45:41.669138",
+    "activated_on": "2026-01-08T21:45:49.032474",
+    "status": "active",
+    "is_trial": false,
+    "tier": "basic",
+    "days": 30
+  },
+  "6571083485": {
+    "expiry": "2025-11-21T16:00:28.538806",
+    "activated_on": "2025-11-20T16:00:28.538806",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5740813049": {
+    "expiry": "2025-11-23T14:29:40.604363",
+    "activated_on": "2025-11-22T14:29:40.604363",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7929681407": {
+    "expiry": "2025-11-23T18:14:15.609013",
+    "activated_on": "2025-11-22T18:14:15.609013",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8342451865": {
+    "expiry": "2025-11-23T22:17:32.455000",
+    "activated_on": "2025-11-22T22:17:32.455000",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7277705689": {
+    "expiry": "2025-11-24T09:21:25.033795",
+    "activated_on": "2025-11-23T09:21:25.033795",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6892339583": {
+    "expiry": "2025-11-25T07:43:11.149553",
+    "activated_on": "2025-11-24T07:43:11.149553",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5081393645": {
+    "expiry": "2025-11-25T12:06:59.197306",
+    "activated_on": "2025-11-24T12:06:59.197306",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7532021415": {
+    "expiry": "2025-11-26T02:18:36.454259",
+    "activated_on": "2025-11-25T02:18:36.454259",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8599633754": {
+    "expiry": "2025-11-26T18:38:10.195297",
+    "activated_on": "2025-11-25T18:38:10.195297",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7216253014": {
+    "expiry": "2025-11-27T09:45:00.741334",
+    "activated_on": "2025-11-26T09:45:00.741334",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5937238841": {
+    "expiry": "2025-11-28T12:42:42.731213",
+    "activated_on": "2025-11-27T12:42:42.731213",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7217662885": {
+    "expiry": "2025-11-29T01:46:49.220708",
+    "activated_on": "2025-11-28T01:46:49.220708",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8466410811": {
+    "expiry": "2025-11-30T09:35:19.963104",
+    "activated_on": "2025-11-29T09:35:19.963104",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5923494614": {
+    "expiry": "2025-11-30T20:05:33.513411",
+    "activated_on": "2025-11-29T20:05:33.513411",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7783857508": {
+    "expiry": "2025-11-30T21:21:25.433457",
+    "activated_on": "2025-11-29T21:21:25.433457",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5415604910": {
+    "expiry": "2025-12-01T11:57:09.520492",
+    "activated_on": "2025-11-30T11:57:09.520492",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8450096345": {
+    "expiry": "2025-12-01T23:07:53.693317",
+    "activated_on": "2025-11-30T23:07:53.693317",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "1327525421": {
+    "expiry": "2025-12-02T05:53:04.887762",
+    "activated_on": "2025-12-01T05:53:04.887762",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6157555171": {
+    "expiry": "2025-12-04T07:27:20.582757",
+    "activated_on": "2025-12-03T07:27:20.582757",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "1001926596": {
+    "expiry": "2025-12-08T01:21:23.645239",
+    "activated_on": "2025-12-07T01:21:23.645239",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7480714421": {
+    "expiry": "2025-12-08T23:41:14.196772",
+    "activated_on": "2025-12-07T23:41:14.196772",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8317901102": {
+    "expiry": "2025-12-09T15:17:46.796843",
+    "activated_on": "2025-12-08T15:17:46.796843",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6429638110": {
+    "expiry": "2025-12-09T23:37:22.484260",
+    "activated_on": "2025-12-08T23:37:22.484260",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7842665189": {
+    "expiry": "2025-12-11T09:40:46.018747",
+    "activated_on": "2025-12-10T09:40:46.018747",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8375397410": {
+    "expiry": "2025-12-14T09:53:03.831915",
+    "activated_on": "2025-12-13T09:53:03.831915",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7889311360": {
+    "expiry": "2025-12-14T16:17:35.594075",
+    "activated_on": "2025-12-13T16:17:35.594075",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7394116222": {
+    "expiry": "2025-12-17T22:58:23.587010",
+    "activated_on": "2025-12-16T22:58:23.587010",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "5924858719": {
+    "expiry": "2025-12-19T07:16:44.696921",
+    "activated_on": "2025-12-18T07:16:44.696921",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7410845801": {
+    "expiry": "2025-12-21T07:18:47.897381",
+    "activated_on": "2025-12-20T07:18:47.897381",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6790334959": {
+    "expiry": "2025-12-21T13:36:54.843690",
+    "activated_on": "2025-12-20T13:36:54.843690",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7267969105": {
+    "expiry": "2025-12-23T19:52:03.472771",
+    "activated_on": "2025-12-22T19:52:03.472771",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8507898194": {
+    "expiry": "2025-12-25T04:13:56.274678",
+    "activated_on": "2025-12-24T04:13:56.274678",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6894980700": {
+    "expiry": "2025-12-27T00:55:58.451402",
+    "activated_on": "2025-12-26T00:55:58.451402",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6328404906": {
+    "expiry": "2025-12-27T04:54:13.597274",
+    "activated_on": "2025-12-26T04:54:13.597274",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6422536201": {
+    "expiry": "2025-12-28T06:57:21.378158",
+    "activated_on": "2025-12-27T06:57:21.378158",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6702039789": {
+    "expiry": "2025-12-30T12:42:35.447444",
+    "activated_on": "2025-12-29T12:42:35.447444",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6611531150": {
+    "expiry": "2025-12-31T19:54:39.682315",
+    "activated_on": "2025-12-30T19:54:39.682315",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7615618265": {
+    "expiry": "2026-01-05T19:49:06.558381",
+    "activated_on": "2026-01-04T19:49:06.558381",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7516295247": {
+    "expiry": "2026-01-05T21:44:43.730443",
+    "activated_on": "2026-01-04T21:44:43.730443",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7699283974": {
+    "expiry": "2026-01-06T15:43:51.539614",
+    "activated_on": "2026-01-05T15:43:51.539614",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8355175001": {
+    "expiry": "2026-01-06T23:05:23.345506",
+    "activated_on": "2026-01-05T23:05:23.345506",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6249292300": {
+    "expiry": "2026-01-06T23:25:00.922590",
+    "activated_on": "2026-01-05T23:25:00.922590",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "1789290558": {
+    "expiry": "2026-01-08T10:41:44.906034",
+    "activated_on": "2026-01-07T10:41:44.906034",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8326519790": {
+    "expiry": "2026-01-09T13:10:17.445505",
+    "activated_on": "2026-01-08T13:10:17.445505",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7252633721": {
+    "expiry": "2026-01-10T14:43:24.141922",
+    "activated_on": "2026-01-09T14:43:24.141922",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8517957359": {
+    "expiry": "2026-01-14T02:48:46.646165",
+    "activated_on": "2026-01-13T02:48:46.646165",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6416746539": {
+    "expiry": "2026-01-15T02:54:10.516802",
+    "activated_on": "2026-01-14T02:54:10.516802",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "1071488453": {
+    "expiry": "2026-01-15T23:08:00.970167",
+    "activated_on": "2026-01-14T23:08:00.970167",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7730122786": {
+    "expiry": "2026-01-17T01:24:36.273217",
+    "activated_on": "2026-01-16T01:24:36.273217",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8517503428": {
+    "expiry": "2026-01-18T00:20:33.262007",
+    "activated_on": "2026-01-17T00:20:33.262007",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7586529361": {
+    "expiry": "2026-01-21T00:14:31.725242",
+    "activated_on": "2026-01-20T00:14:31.725242",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6684374673": {
+    "expiry": "2026-01-22T02:04:08.074254",
+    "activated_on": "2026-01-21T02:04:08.074254",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8089603563": {
+    "expiry": "2027-10-08T21:55:15.840021",
+    "activated_on": "2026-01-21T21:55:15.840021",
+    "status": "active",
+    "is_trial": false,
+    "tier": "vip",
+    "days": 625
+  },
+  "8399977286": {
+    "expiry": "2026-01-24T23:04:16.048848",
+    "activated_on": "2026-01-23T23:04:16.048848",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7945554328": {
+    "expiry": "2026-01-26T22:55:01.247276",
+    "activated_on": "2026-01-25T22:55:01.247276",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8139147150": {
+    "expiry": "2026-01-28T03:58:08.643739",
+    "activated_on": "2026-01-27T03:58:08.643739",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8164418212": {
+    "expiry": "2026-01-30T04:28:07.422110",
+    "activated_on": "2026-01-29T04:28:07.422110",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8319996857": {
+    "expiry": "2026-01-31T04:29:55.943910",
+    "activated_on": "2026-01-30T04:29:55.943910",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8571269322": {
+    "expiry": "2026-02-04T13:46:52.163224",
+    "activated_on": "2026-02-03T13:46:52.163224",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8534986882": {
+    "expiry": "2026-02-06T11:06:41.936894",
+    "activated_on": "2026-02-05T11:06:41.936894",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7826707886": {
+    "expiry": "2026-02-07T11:47:03.466524",
+    "activated_on": "2026-02-06T11:47:03.466524",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "6279645781": {
+    "expiry": "2026-02-07T23:31:01.723836",
+    "activated_on": "2026-02-06T23:31:01.723836",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "7616282479": {
+    "expiry": "2026-02-08T19:34:13.945791",
+    "activated_on": "2026-02-07T19:34:13.945791",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  },
+  "8459612575": {
+    "expiry": "2026-02-10T01:14:36.766292",
+    "activated_on": "2026-02-09T01:14:36.766292",
+    "status": "active",
+    "is_trial": true,
+    "tier": "basic",
+    "days": 1
+  }
+}

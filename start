@@ -1,0 +1,28 @@
+#!/bin/bash
+set -e
+
+cd "$(dirname "$0")"
+
+if [ -d ".venv" ]; then
+    if [ ! -x ".venv/bin/python3" ] || ! ./.venv/bin/python3 --version >/dev/null 2>&1; then
+        mv .venv ".venv_broken_$(date +%s)"
+    fi
+fi
+
+if [ ! -d ".venv" ]; then
+    python3 -m venv .venv
+fi
+
+. .venv/bin/activate
+
+if [ -f requirements.txt ]; then
+    ./.venv/bin/pip install --upgrade pip >/dev/null 2>&1 || true
+    ./.venv/bin/pip install -r requirements.txt >/dev/null 2>&1 || true
+fi
+
+pkill -f '/root/bot/.venv/bin/python3 .*bot.py|python3 .*bot.py' 2>/dev/null || true
+sleep 1
+nohup ./.venv/bin/python3 bot.py > bot.log 2>&1 &
+echo $! > bot.pid
+sleep 5
+kill -0 $(cat bot.pid) 2>/dev/null

@@ -1,0 +1,18 @@
+{
+  "mandatory_channel": "@Nepsxbot",
+  "subscription_enabled": true,
+  "basic_price": 699,
+  "premium_price": 999,
+  "vip_price": 1499,
+  "subscription_days": 30,
+  "trial_days": 1,
+  "payment_upi": "aviijio@axl",
+  "log_channel": "@YourLogChannel",
+  "default_register_link": "https://your-registration-link.com",
+  "subscription_price": 1000,
+  "lifetime_price": 3333,
+  "payment_methods": [
+    "upi",
+    "manual"
+  ]
+}

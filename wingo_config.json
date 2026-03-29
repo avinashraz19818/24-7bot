@@ -1,0 +1,9 @@
+{
+    "admin_ids": [6484788124],
+    "channels": [],
+    "channel_configs": {},
+    "channel_prediction_status": {},
+    "custom_break_messages": {},
+    "custom_break_schedules": {},
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json"
+}

@@ -1,0 +1,8 @@
+{
+  "language_name": "বাংলা",
+  "templates": {
+    "prediction": "🎯 <b>এআই প্রেডিকশন সিস্টেম</b> ━ 24/7\n\n<blockquote>📅 <b>পিরিয়ড:</b> <code>{period}</code>\n🎲 <b>বিনিয়োগ:</b> <b>{choice}</b>\n🚀 <b>মাল্টিপ্লায়ার:</b> <b>{multiplier}x</b>\n💰 <b>ক্রয় মূল্য:</b> ₹{price}</blockquote>\n\n<a href=\"{register_link}\"><b>🎯 এখনই নিবন্ধন করুন এবং বোনাস পান 🎯</b></a>",
+    "win": "🎉 <b>বিজয় অর্জন!</b> 🏆\n\n<blockquote>✅ <b>প্রেডিকশন সফল</b>\n\n📅 <b>পিরিয়ড:</b> <code>{period}</code>\n🎯 <b>ফলাফল:</b> <b>{result}</b></blockquote>\n\n💰 <b>চমৎকার বিনিয়োগ! আপনার জয়ের ধারা চালিয়ে যান!</b>",
+    "lose": "💫 <b>পরের বার বিজয়ী!</b>\n\n<blockquote>📅 <b>পিরিয়ড:</b> <code>{period}</code>\n🎯 <b>ফলাফল:</b> <b>{result}</b></blockquote>\n\n⚡ <b>দৃঢ় থাকুন! আরেকটি সুযোগ শীঘ্রই আসছে!</b>"
+  }
+}

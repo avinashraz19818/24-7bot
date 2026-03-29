@@ -1,0 +1,8 @@
+{
+  "language_name": "اردو",
+  "templates": {
+    "prediction": "🎯 <b>AI پیشن گوئی کا نظام</b> ━ 24/7\n\n<blockquote>📅 <b>مدت:</b> <code>{period}</code>\n🎲 <b>سرمایہ کاری:</b> <b>{choice}</b>\n🚀 <b>ضارب:</b> <b>{multiplier}x</b>\n💰 <b>قیمت خرید:</b> ₹{price}</blockquote>\n\n<a href=\"{register_link}\"><b>🎯 ابھی رجسٹر کریں اور بونس حاصل کریں 🎯</b></a>",
+    "win": "🎉 <b>کامیابی حاصل ہوئی!</b> 🏆\n\n<blockquote>✅ <b>پیشن گوئی کامیاب</b>\n\n📅 <b>مدت:</b> <code>{period}</code>\n🎯 <b>نتیجہ:</b> <b>{result}</b></blockquote>\n\n💰 <b>بہترین سرمایہ کاری! اپنی جیتنے کے سلسلے کو جاری رکھیں!</b>",
+    "lose": "💫 <b>اگلی بار فاتح!</b>\n\n<blockquote>📅 <b>مدت:</b> <code>{period}</code>\n🎯 <b>نتیجہ:</b> <b>{result}</b></blockquote>\n\n⚡ <b>ثابت قدم رہیں! ایک اور موقع جلد آتا ہے!</b>"
+  }
+}

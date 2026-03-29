@@ -1,0 +1,8 @@
+{
+  "language_name": "हिन्दी",
+  "templates": {
+    "prediction": "🎯 <b>एआई प्रीडिक्शन सिस्टम</b> ━ 24/7\n\n<blockquote>📅 <b>अवधि:</b> <code>{period}</code>\n🎲 <b>निवेश:</b> <b>{choice}</b>\n🚀 <b>मल्टीप्लायर:</b> <b>{multiplier}x</b>\n💰 <b>क्रय मूल्य:</b> ₹{price}</blockquote>\n\n<a href=\"{register_link}\"><b>🎯 अभी पंजीकरण करें और बोनस पाएं 🎯</b></a>",
+    "win": "🎉 <b>जीत हासिल की!</b> 🏆\n\n<blockquote>✅ <b>भविष्यवाणी सफल</b>\n\n📅 <b>अवधि:</b> <code>{period}</code>\n🎯 <b>परिणाम:</b> <b>{result}</b></blockquote>\n\n💰 <b>उत्कृष्ट निवेश! अपनी जीत की स्ट्रीक जारी रखें!</b>",
+    "lose": "💫 <b>अगली बार विजेता!</b>\n\n<blockquote>📅 <b>अवधि:</b> <code>{period}</code>\n🎯 <b>परिणाम:</b> <b>{result}</b></blockquote>\n\n⚡ <b>दृढ़ रहें! एक और अवसर जल्द ही आता है!</b>"
+  }
+}

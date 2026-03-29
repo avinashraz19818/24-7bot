@@ -1,0 +1,8 @@
+{
+  "language_name": "English",
+  "templates": {
+    "prediction": "🎯 <b>AI PREDICTION SYSTEM</b> ━ 24/7\n\n<blockquote>📅 <b>Period:</b> <code>{period}</code>\n🎲 <b>Investment:</b> <b>{choice}</b>\n🚀 <b>Multiplier:</b> <b>{multiplier}x</b>\n💰 <b>Purchase Price:</b> ₹{price}</blockquote>\n\n<a href=\"{register_link}\"><b>🎯 REGISTER NOW & GET BONUS 🎯</b></a>",
+    "win": "🎉 <b>VICTORY ACHIEVED!</b> 🏆\n\n<blockquote>✅ <b>Prediction Successful</b>\n\n📅 <b>Period:</b> <code>{period}</code>\n🎯 <b>Result:</b> <b>{result}</b></blockquote>\n\n💰 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose": "💫 <b>NEXT TIME WINNER!</b>\n\n<blockquote>📅 <b>Period:</b> <code>{period}</code>\n🎯 <b>Result:</b> <b>{result}</b></blockquote>\n\n⚡ <b>Stay determined! Another opportunity arrives shortly!</b>"
+  }
+}

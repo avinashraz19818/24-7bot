@@ -1,0 +1,8 @@
+{
+  "language_name": "മലയാളം",
+  "templates": {
+    "prediction": "🎯 <b>AI പ്രെഡിക്ഷൻ സിസ്റ്റം</b> ━ 24/7\n\n<blockquote>📅 <b>കാലയളവ്:</b> <code>{period}</code>\n🎲 <b>നിക്ഷേപം:</b> <b>{choice}</b>\n🚀 <b>മൾട്ടിപ്ലയർ:</b> <b>{multiplier}x</b>\n💰 <b>വാങ്ങൽ വില:</b> ₹{price}</blockquote>\n\n<a href=\"{register_link}\"><b>🎯 ഇപ്പോൾ രജിസ്റ്റർ ചെയ്ത് ബോണസ് നേടുക 🎯</b></a>",
+    "win": "🎉 <b>വിജയം കൈവരിച്ചു!</b> 🏆\n\n<blockquote>✅ <b>പ്രെഡിക്ഷൻ വിജയം</b>\n\n📅 <b>കാലയളവ്:</b> <code>{period}</code>\n🎯 <b>ഫലം:</b> <b>{result}</b></blockquote>\n\n💰 <b>മികച്ച നിക്ഷേപം! നിങ്ങളുടെ വിജയ ശൃംഖല തുടരുക!</b>",
+    "lose": "💫 <b>അടുത്ത തവണ വിജയി!</b>\n\n<blockquote>📅 <b>കാലയളവ്:</b> <code>{period}</code>\n🎯 <b>ഫലം:</b> <b>{result}</b></blockquote>\n\n⚡ <b>ദൃഢമായി തുടരുക! മറ്റൊരു അവസരം ഉടൻ വരുന്നു!</b>"
+  }
+}

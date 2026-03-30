@@ -20,7 +20,7 @@ if [ -f requirements.txt ]; then
     ./.venv/bin/pip install -r requirements.txt >/dev/null 2>&1 || true
 fi
 
-pkill -f '/root/bot/.venv/bin/python3 .*bot.py|python3 .*bot.py' 2>/dev/null || true
+pkill -f '/root/24-7bot/.venv/bin/python3 .*bot.py|python3 .*bot.py' 2>/dev/null || true
 sleep 1
 nohup ./.venv/bin/python3 bot.py > bot.log 2>&1 &
 echo $! > bot.pid

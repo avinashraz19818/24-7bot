@@ -304,9 +304,139 @@
     "win_template": "\n\ud83c\udf89 <b>WINNER! CONGRATULATIONS!</b> \ud83c\udf89\n\n\u2705 Prediction Successful\n\n\ud83d\udcc5 Period: <code>{period}</code>\n\ud83c\udfaf Result: <b>{result}</b>\n\n\ud83d\udcb0 Great investment! Keep winning!\n",
     "lose_template": "\n\ud83d\ude14 <b>Better Luck Next Time!</b>\n\n\ud83d\udcc5 Period: <code>{period}</code>\n\ud83c\udfaf Result: <b>{result}</b>\n\n\ud83d\udcaa Don't worry! Next prediction coming soon!\n",
     "is_active": true,
-    "prediction_tables": {},
-    "multipliers": {},
-    "prices": {},
+    "prediction_tables": {
+      "-1003037824452": [],
+      "-1002066745153": [
+        {
+          "period": "20260330100010562",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010564",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010566",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010568",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010570",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010572",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010574",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010576",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010578",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010580",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        }
+      ],
+      "-1003005182116": [
+        {
+          "period": "20260330100010562",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010564",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010566",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010568",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010570",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010572",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010574",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010576",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010578",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260330100010580",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        }
+      ]
+    },
+    "multipliers": {
+      "-1003037824452": 1
+    },
+    "prices": {
+      "-1003037824452": 10
+    },
     "custom_session_enabled": false,
     "custom_session_duration": 60,
     "custom_session_active": false,

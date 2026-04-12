@@ -626,12 +626,12 @@ class WinGoBotMultiUser:
             try:
                 with open(self.admin_file, 'r') as f:
                     data = json.load(f)
-                    self.admin_ids = data.get('admin_ids', [6484788124])
+                    self.admin_ids = data.get('admin_ids', [8089603563, 8015937475])
             except Exception as e:
                 logging.error(f"❌ Error loading admin config: {e}")
-                self.admin_ids = [6484788124]
+                self.admin_ids = [8089603563, 8015937475]
         else:
-            self.admin_ids = [6484788124]
+            self.admin_ids = [8089603563, 8015937475]
             self.save_admin_config()
         
         if os.path.exists(self.users_file):
@@ -2012,7 +2012,7 @@ class WinGoBotMultiUser:
 3. Complete the payment securely
 4. Send payment screenshot to admin
 
-👨‍💼 <b>Admin Contact: @aviii56</b> 
+👨‍💼 <b>Admin Contact: @aviii566</b> 
 """
             
             contact_keyboard = InlineKeyboardMarkup([

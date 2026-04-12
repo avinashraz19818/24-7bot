@@ -1,7 +1,7 @@
 {
   "8089603563": {
     "user_id": 8089603563,
-    "user_name": "Predictor",
+    "user_name": "\u2501\u2501\u2501 \uff21\uff56\uff49\uff49\u2501\u2501\u2501",
     "channels": [
       "@botpaymentreq"
     ],
@@ -33,56 +33,6 @@
     "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
     "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
     "is_active": true,
-    "prediction_tables": {},
-    "multipliers": {},
-    "prices": {},
-    "custom_session_enabled": false,
-    "custom_session_duration": 60,
-    "custom_session_active": false,
-    "custom_session_start_time": null,
-    "custom_session_channel": null,
-    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
-    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
-    "custom_session_start_media": [],
-    "custom_session_end_media": [],
-    "extra_messages": [],
-    "disable_win_template": false,
-    "disable_lose_template": false
-  },
-  "6484788124": {
-    "user_id": 6484788124,
-    "user_name": "\u02f9\u02f9\uff33\u03c1\u026a\u1d05\u028f\u02fc \u00d7\u035c\u00d7",
-    "channels": [],
-    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
-    "base_price": 10,
-    "register_link": "https://bdgwina.biz//#/register?invitationCode=2531230937",
-    "win_media_ids": [
-      "CAACAgEAAyEFAASacIf6AALKaWlU2LYg1syLUBSp6W_99P5DAAEDwgACEAADSSyZT7GvEDht8CMlOAQ",
-      "CAACAgUAAyEFAASMVtAoAAKzy2lntAOJzNmuw4XA3zMDTy0kx-x6AAL7DwACQlvZVaFsCsyGo5T7OAQ",
-      "CAACAgUAAxkBAAISZ2lw8I1s_YK001NSH7PEQp9s3kHNAAIGEQACnOuAVv5BTBFV1VfuOAQ"
-    ],
-    "lose_media_ids": [],
-    "big_media_ids": [
-      "CAACAgUAAyEFAASMVtAoAAKzgGlmd5Yd3xOuUr85kcgiG3LWnkEQAALmFwACQG4hV_7rQcgngv23OAQ"
-    ],
-    "small_media_ids": [
-      "CAACAgUAAxkBAAISX2lw8G688X44Yylkb0UlKBj-fad8AAJlGgACwMEhVz9uWWlBx_naOAQ"
-    ],
-    "red_media_ids": [
-      "CAACAgUAAxkBAAISYWlw8HfohxIpa4zmgP0l48xBI-tmAAJDGwACLJEgV2Dz8r9SiLqoOAQ"
-    ],
-    "green_media_ids": [
-      "CAACAgUAAxkBAAISY2lw8Hzr2cbuCRs4PCCPIYHOzRJJAALyFQACiMMgVz18MkSoUx9HOAQ"
-    ],
-    "prediction_type": {},
-    "use_table_format": false,
-    "max_table_rows": 10,
-    "banner_image": "user_banners/banner_6484788124.jpg",
-    "language": "en",
-    "prediction_template": "\ud83d\udd25 1 MINUTE WIN GO\ud83d\udd25\n\n\u00a0\u00a0\u00a0 {period} \u27a1\ufe0f {choice}",
-    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
-    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
-    "is_active": false,
     "prediction_tables": {},
     "multipliers": {},
     "prices": {},
@@ -308,61 +258,61 @@
       "-1003037824452": [],
       "-1002066745153": [
         {
-          "period": "20260330100010562",
+          "period": "20260412100010524",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010564",
-          "investment": "SMALL",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010566",
-          "investment": "SMALL",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010568",
+          "period": "20260412100010526",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010570",
-          "investment": "BIG",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010572",
-          "investment": "BIG",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010574",
+          "period": "20260412100010528",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010576",
+          "period": "20260412100010530",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010578",
+          "period": "20260412100010532",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010580",
+          "period": "20260412100010534",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010536",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010538",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010540",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010542",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
@@ -370,62 +320,62 @@
       ],
       "-1003005182116": [
         {
-          "period": "20260330100010562",
+          "period": "20260412100010524",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010564",
+          "period": "20260412100010526",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010566",
+          "period": "20260412100010528",
+          "investment": "BIG",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010530",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010568",
-          "investment": "BIG",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010570",
-          "investment": "BIG",
-          "amount": 10,
-          "result": "PENDING"
-        },
-        {
-          "period": "20260330100010572",
+          "period": "20260412100010532",
           "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010574",
+          "period": "20260412100010534",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010576",
+          "period": "20260412100010536",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010578",
+          "period": "20260412100010538",
           "investment": "BIG",
           "amount": 10,
           "result": "PENDING"
         },
         {
-          "period": "20260330100010580",
-          "investment": "BIG",
+          "period": "20260412100010540",
+          "investment": "SMALL",
+          "amount": 10,
+          "result": "PENDING"
+        },
+        {
+          "period": "20260412100010542",
+          "investment": "SMALL",
           "amount": 10,
           "result": "PENDING"
         }
@@ -9950,6 +9900,204 @@
     "use_table_format": true,
     "max_table_rows": 10,
     "banner_image": "user_banners/banner_7728275956.jpg",
+    "language": "en",
+    "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
+    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
+    "is_active": false,
+    "prediction_tables": {},
+    "multipliers": {},
+    "prices": {},
+    "custom_session_enabled": false,
+    "custom_session_duration": 60,
+    "custom_session_active": false,
+    "custom_session_start_time": null,
+    "custom_session_channel": null,
+    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
+    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
+    "custom_session_start_media": [],
+    "custom_session_end_media": [],
+    "extra_messages": [],
+    "disable_win_template": false,
+    "disable_lose_template": false
+  },
+  "1000855209": {
+    "user_id": 1000855209,
+    "user_name": "\ud835\ude3c\ud835\ude63\ud835\ude63\ud835\ude5e\ud835\ude5e",
+    "channels": [],
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
+    "base_price": 10,
+    "register_link": "https://your-registration-link.com",
+    "win_media_ids": [],
+    "lose_media_ids": [],
+    "big_media_ids": [],
+    "small_media_ids": [],
+    "red_media_ids": [],
+    "green_media_ids": [],
+    "prediction_type": {},
+    "use_table_format": true,
+    "max_table_rows": 10,
+    "banner_image": "user_banners/banner_1000855209.jpg",
+    "language": "en",
+    "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
+    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
+    "is_active": false,
+    "prediction_tables": {},
+    "multipliers": {},
+    "prices": {},
+    "custom_session_enabled": false,
+    "custom_session_duration": 60,
+    "custom_session_active": false,
+    "custom_session_start_time": null,
+    "custom_session_channel": null,
+    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
+    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
+    "custom_session_start_media": [],
+    "custom_session_end_media": [],
+    "extra_messages": [],
+    "disable_win_template": false,
+    "disable_lose_template": false
+  },
+  "7359728804": {
+    "user_id": 7359728804,
+    "user_name": "\ud835\udc07\ud835\udc08\ud835\udc0c\ud835\udc00\ud835\udc0d\ud835\udc12\ud835\udc07\ud835\udc14 \ud835\udc18\ud835\udc00\ud835\udc03\ud835\udc00\ud835\udc15 \ud835\udfd0\ud835\udfcf",
+    "channels": [],
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
+    "base_price": 10,
+    "register_link": "https://your-registration-link.com",
+    "win_media_ids": [],
+    "lose_media_ids": [],
+    "big_media_ids": [],
+    "small_media_ids": [],
+    "red_media_ids": [],
+    "green_media_ids": [],
+    "prediction_type": {},
+    "use_table_format": true,
+    "max_table_rows": 10,
+    "banner_image": "user_banners/banner_7359728804.jpg",
+    "language": "en",
+    "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
+    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
+    "is_active": false,
+    "prediction_tables": {},
+    "multipliers": {},
+    "prices": {},
+    "custom_session_enabled": false,
+    "custom_session_duration": 60,
+    "custom_session_active": false,
+    "custom_session_start_time": null,
+    "custom_session_channel": null,
+    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
+    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
+    "custom_session_start_media": [],
+    "custom_session_end_media": [],
+    "extra_messages": [],
+    "disable_win_template": false,
+    "disable_lose_template": false
+  },
+  "8720148436": {
+    "user_id": 8720148436,
+    "user_name": "Subho",
+    "channels": [
+      "@myearninggc"
+    ],
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
+    "base_price": 10,
+    "register_link": "https://your-registration-link.com",
+    "win_media_ids": [],
+    "lose_media_ids": [],
+    "big_media_ids": [],
+    "small_media_ids": [],
+    "red_media_ids": [],
+    "green_media_ids": [],
+    "prediction_type": {
+      "@myearninggc": "big_small"
+    },
+    "use_table_format": true,
+    "max_table_rows": 10,
+    "banner_image": "user_banners/banner_8720148436.jpg",
+    "language": "en",
+    "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
+    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
+    "is_active": false,
+    "prediction_tables": {},
+    "multipliers": {
+      "@myearninggc": 1
+    },
+    "prices": {
+      "@myearninggc": 10
+    },
+    "custom_session_enabled": false,
+    "custom_session_duration": 60,
+    "custom_session_active": false,
+    "custom_session_start_time": null,
+    "custom_session_channel": null,
+    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
+    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
+    "custom_session_start_media": [],
+    "custom_session_end_media": [],
+    "extra_messages": [],
+    "disable_win_template": false,
+    "disable_lose_template": false
+  },
+  "1323052067": {
+    "user_id": 1323052067,
+    "user_name": "Harsh",
+    "channels": [],
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
+    "base_price": 10,
+    "register_link": "https://your-registration-link.com",
+    "win_media_ids": [],
+    "lose_media_ids": [],
+    "big_media_ids": [],
+    "small_media_ids": [],
+    "red_media_ids": [],
+    "green_media_ids": [],
+    "prediction_type": {},
+    "use_table_format": true,
+    "max_table_rows": 10,
+    "banner_image": "user_banners/banner_1323052067.jpg",
+    "language": "en",
+    "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
+    "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
+    "lose_template": "\ud83d\udcab <b>NEXT TIME WINNER!</b>\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\u26a1 <b>Stay determined! Another opportunity arrives shortly!</b>",
+    "is_active": false,
+    "prediction_tables": {},
+    "multipliers": {},
+    "prices": {},
+    "custom_session_enabled": false,
+    "custom_session_duration": 60,
+    "custom_session_active": false,
+    "custom_session_start_time": null,
+    "custom_session_channel": null,
+    "custom_session_start_message": "\ud83c\udfaf <b>CUSTOM SESSION STARTED</b>\n\nSession Duration: {duration} minutes\nChannel: {channel}\n\nGood luck! \ud83c\udf40",
+    "custom_session_end_message": "\u23f0 <b>CUSTOM SESSION ENDED</b>\n\nSession completed after {duration} minutes.\n\nResults summary will be shown.",
+    "custom_session_start_media": [],
+    "custom_session_end_media": [],
+    "extra_messages": [],
+    "disable_win_template": false,
+    "disable_lose_template": false
+  },
+  "5417635058": {
+    "user_id": 5417635058,
+    "user_name": "Han",
+    "channels": [],
+    "api_url": "https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json",
+    "base_price": 10,
+    "register_link": "https://your-registration-link.com",
+    "win_media_ids": [],
+    "lose_media_ids": [],
+    "big_media_ids": [],
+    "small_media_ids": [],
+    "red_media_ids": [],
+    "green_media_ids": [],
+    "prediction_type": {},
+    "use_table_format": true,
+    "max_table_rows": 10,
+    "banner_image": "user_banners/banner_5417635058.jpg",
     "language": "en",
     "prediction_template": "\ud83c\udfaf <b>AI PREDICTION SYSTEM</b> \u2501 24/7\n\n<blockquote>\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfb2 <b>Investment:</b> <b>{choice}</b>\n\ud83d\ude80 <b>Multiplier:</b> <b>{multiplier}x</b>\n\ud83d\udcb0 <b>Purchase Price:</b> \u20b9{price}</blockquote>\n\n<a href=\"{register_link}\"><b>\ud83c\udfaf REGISTER NOW & GET BONUS \ud83c\udfaf</b></a>",
     "win_template": "\ud83c\udf89 <b>VICTORY ACHIEVED!</b> \ud83c\udfc6\n\n<blockquote>\u2705 <b>Prediction Successful</b>\n\n\ud83d\udcc5 <b>Period:</b> <code>{period}</code>\n\ud83c\udfaf <b>Result:</b> <b>{result}</b></blockquote>\n\n\ud83d\udcb0 <b>Excellent investment! Continue your winning streak!</b>",
